@@ -1,0 +1,1 @@
+configcmd: "./autogen.sh && ./configure"
